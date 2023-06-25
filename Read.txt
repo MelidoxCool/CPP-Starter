@@ -1,0 +1,17 @@
+Instructions on how to set up CPP Starter
+
+1. Make a folder called "Add to projects" or whatever you want. every thing after this will take place in this folder
+
+2. take whats in the "Put In Project folder" (one that you downloaded, not made) and copy and paste it into the folder you made
+
+3. make a folder in the "Add to projects" folder and call it "src"
+
+4. copy and paste whats in the folder "put In src" into the folder you made called "src"
+
+5. make a folder in "src" called "include"
+
+6. make a folder in "include" called "SFML"
+
+7. copy and paste whats in "src include SFML 1" and "src include SFML 2" into "SFML"
+
+8. Your done retard.
